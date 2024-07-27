@@ -1,0 +1,44 @@
+.btn-orange {
+  width: 226px;
+  padding: 21px 0px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background-color: #ff774c;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.4000000059604645px;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
+
+.btn-orange:hover{
+    background-color: transparent;
+    border-color:#ff774c;
+    color:#ff774c;
+
+}
+
+.btn-blue{
+    
+  width: 226px;
+  padding: 21px 0px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background-color: #7390F9;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.4000000059604645px;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
+
+.btn-blue:hover{
+    
+    background-color: transparent;
+    border-color:#7390F9;
+    color:#7390F9;
+}
